@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+*{
+  font-family: Roboto;
+}
+
+/* colors: {
+    // Base Colors
+    deepIndigo: '#1E1B45',
+    midnightBlue: '#25274D',
+
+    // Accent Colors
+    vividAmethyst: '#9C27B0',
+    electricTeal: '#00E6FF',
+
+    // Text Colors
+    platinumWhite: '#E0E0E0',
+    softLavender: '#D1C4E9',
+  }, */
+
+  body {
+    background-color: #25274D;
+  }
+
+  ::-webkit-scrollbar{
+    display: none;
+  }
